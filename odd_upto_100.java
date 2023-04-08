@@ -6,7 +6,7 @@
 
  
 
-    for(int i=0;i<50;i++)
+    for(int i=0+1;i<50;i++)
      {
        System.out.println("Odd values are "+(2*i+1));
      }
